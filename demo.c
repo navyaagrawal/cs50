@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hey, world.\n"); // hi
-    printf("hihihi\n"); // ky
+    printf("Hey, world.\n"); 
+    printf("hihihi\n"); 
 }
